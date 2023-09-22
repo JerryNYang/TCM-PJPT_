@@ -5,6 +5,8 @@
 I have learned the hacking aspect of coding.<b></b></br></p>
 <b><p>The five stages of Ethical Hacking!
   <li> Reconnnaissence</li>
+    <ul>Passive</ul>
+    <u1> Active</u1>
 <li> Scanning /  Enumeration </li>
 <li> Gaining Access (Exploitation) </li>
 <li> Maintaining Access </li>
