@@ -1,1 +1,2 @@
-s
+#study arp -scan -l
+# kioptrix
