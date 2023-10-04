@@ -9,7 +9,7 @@ I have learned the hacking aspect of coding.<b></b></br></p>
   <li style="margin-left:2em">Passive Recon</li>
   <li style="margin-left:2em; padding-bottom: 0;">Active Recon</li>
  </ol>
-<li> Scanning /  Enumeration </li>
+<li> Scanning and  Enumeration </li>
 <li> Gaining Access (Exploitation) </li>
 <li> Maintaining Access </li>
 <li> Covering Tracks </li></b></p>
